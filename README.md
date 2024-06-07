@@ -1,5 +1,8 @@
-# Data_Science_Challenges
-Repositório contendo desafios relacionados a Data Science, com foco em:
+# Portfolio Data Science
+Repositório focado na criação do meu portfolio sobre Ciencia de dados, nele estão contidos desafios e projetos desenvolvidos sobre ciencia de dados, com foco em:
+
 * Python e analise de dados
 * Power BI e visualização de dados
+* Machine Learning
+* Gerenciamento e aplicação de bancos de dados.
   
