@@ -18,7 +18,7 @@ Estes dados foram coletados através dos comprovantes de pedidos para a produç�
   - Dashboards dedicados para cada solicitação do cliente;
   - Análise dos resultados dos dashboards e Insights sobre o que foi solicitado.
  
-  - Tecnologias Utilizadas:
+- Tecnologias Utilizadas:
     - Pythons e as bibliotecas:
     - Pandas, Matplotlib, Searborn e Plotly.express;
     - Google colab para criação e armazenamento do código. 
